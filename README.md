@@ -98,17 +98,14 @@ Hola, soy **Anghela Rodriguez Barrios**, Analista de Sistemas apasionada por el 
 ---
 
 
-# 📊 Estadisticas de GitHub:
-![](https://github-readme-stats.vercel.app/api?username=AnghelaRodriguezBarrios&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=AnghelaRodriguezBarrios&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AnghelaRodriguezBarrios&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 🏆Trofeos GitHub
+<img src="https://github-profile-trophy.vercel.app/api/?username=AnghelaRodriguezBarrios&locale=es" alt="AnghelaRodriguezBarrios" style="width: 850px;"/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AnghelaRodriguezBarrios&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+## ☕Lenguajes más Usados
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnghelaRodriguezBarrios&locale=es&layout=compact&langs_count=10&role=OWNER,COLLABORATOR&theme=default" alt="AnghelaRodriguezBarrios" style="width: 250px;"/>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=AnghelaRodriguezBarrios&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
+## 📊Estadísticas de GitHub
+<img src="https://github-readme-stats.vercel.app/api?username=AnghelaRodriguezBarrios&show_icons=true&locale=es&role=OWNER,COLLABORATOR&theme=default" alt="AnghelaRodriguezBarrios" style="width: 300px;"/>
 
 ## 🤝 Conectate conmigo
 
