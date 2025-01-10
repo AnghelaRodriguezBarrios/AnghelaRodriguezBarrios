@@ -4,7 +4,7 @@
 
 ---
 
-<img align="right" width="400" alt="Coding Image" src="https://wallpapers.com/images/featured/programacion-de-iphone-bd86goc4fhvenj72.jpg"/>
+<img align="right" width="300" alt="Coding Image" src="https://wallpapers.com/images/featured/programacion-de-iphone-bd86goc4fhvenj72.jpg"/>
 
 ## 👩‍💻 Sobre mí
 
