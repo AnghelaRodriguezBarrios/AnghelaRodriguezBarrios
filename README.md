@@ -1,5 +1,5 @@
 # <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=FFC400&center=true&vCenter=true&width=600&lines=%C2%A1Hola!+Soy+Anghela+Rodriguez+Barrios;Analista+de+Sistemas+Graduada;Frontend+%26+Backend+Developer;Apasionada+por+la+Tecnolog%C3%ADa+y+el+Dise%C3%B1o" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=FFC400&center=true&vCenter=true&width=600&lines=%C2%A1Hola!+Soy+Anghela+Rodriguez+Barrios;Analista+de+Sistemas;Frontend+%26+Backend+Developer;Apasionada+por+la+Tecnolog%C3%ADa+y+el+Dise%C3%B1o" alt="Typing SVG" />
 </div>
 
 ---
@@ -11,7 +11,7 @@
 Hola, soy **Anghela Rodriguez Barrios**, Analista de Sistemas apasionada por el desarrollo de software tanto en **Frontend** como en **Backend**. Mi objetivo es crear aplicaciones eficientes, innovadoras y centradas en el usuario. Me motiva aprender continuamente y colaborar en proyectos que tengan impacto positivo en la sociedad.
 
 - 🌱 Actualmente explorando tecnologías **Cloud** y **Microservicios**.
-- 🎯 Objetivo: **Crear soluciones escalables y robustas en proyectos Full Stack**.
+- 🎯 Objetivo: **Crear soluciones escalables**.
 - 💡 Me interesa la **optimización de procesos** y la **experiencia del usuario**.
 
 ---
@@ -68,8 +68,6 @@ Hola, soy **Anghela Rodriguez Barrios**, Analista de Sistemas apasionada por el 
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
 </div>
-
-<img align="left" width="400" alt="Coding Image" src="https://wallpapers.com/images/hd/phyton-code-in-neon-colors-pcypyd3o7b4i2wgw.jpg"/>
 
 ### **Bases de Datos**
 <div align="center">
