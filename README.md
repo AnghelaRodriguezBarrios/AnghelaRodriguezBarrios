@@ -1,5 +1,5 @@
 # <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=FFC400&center=true&vCenter=true&width=600&lines=%C2%A1Hola 🤓!+Soy+Anghela+Rodriguez+Barrios;Analista+de+Sistemas;Frontend+%26+Backend+Developer;Apasionada+por+la+Tecnolog%C3%ADa+y+el+Dise%C3%B1o" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=ffff00&center=true&vCenter=true&width=600&lines=%C2%A1Hola 🤓!+Soy+Anghela+Rodriguez+Barrios;Analista+de+Sistemas;Frontend+%26+Backend+Developer;Apasionada+por+la+Tecnolog%C3%ADa+y+el+Dise%C3%B1o" alt="Typing SVG" />
 </div>
 
 ---
@@ -32,7 +32,7 @@ Hola, soy **Anghela Rodriguez Barrios**, Analista de Sistemas apasionada por el 
 
 ---
 
-## 🛠️ Lenguajes y Herramientas de Programación
+## 🛠️ Stack Tecnológico
 
 ### **Frontend**
 <div align="center">
@@ -101,31 +101,29 @@ Hola, soy **Anghela Rodriguez Barrios**, Analista de Sistemas apasionada por el 
 
 ---
 
-## 🌟 Proyectos Destacados
+# 📊 Estadisticas de GitHub:
+![](https://github-readme-stats.vercel.app/api?username=AnghelaRodriguezBarrios&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=AnghelaRodriguezBarrios&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AnghelaRodriguezBarrios&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=AnghelaRodriguezBarrios&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=AnghelaRodriguezBarrios&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+
+## 🤝 Conectate conmigo
 
 <div align="center">
-  <a href="https://github.com/AnghelaRodriguez/proyecto1">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AnghelaRodriguez&repo=proyecto1&theme=radical" />
-  </a>
-  <a href="https://github.com/AnghelaRodriguez/proyecto2">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AnghelaRodriguez&repo=proyecto2&theme=radical" />
-  </a>
-</div>
 
----
-
-## 🤝 Conectemos
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anghela-rodriguez-barrios)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anghela.rodriguez@example.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnghelaRodriguez)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anghela-antonella-rodriguez-barrios-a613b6238/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anghela.rodriguez@vallegrande.edu.pe)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnghelaRodriguezBarrios)
 
 </div>
 
----
+#### 👩‍💻Contador de Visitas: 
+<img src="https://profile-counter.glitch.me/AnghelaRodriguezBarrios/count.svg"/>
 
-<div align="center">
-  ⭐️ From [Anghela Rodriguez Barrios](https://github.com/AnghelaRodriguez)
-</div>
+<h4 align="center">¡Gracias por visitar mi perfil!😺</h4>
