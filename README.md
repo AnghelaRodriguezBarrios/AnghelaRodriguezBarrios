@@ -4,11 +4,6 @@
 
 ---
 
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/grid-snake.svg"
-       alt="snake" /></a>
-</div>
-
 <img align="right" width="400" alt="Coding Image" src="https://wallpapers.com/images/featured/programacion-de-iphone-bd86goc4fhvenj72.jpg"/>
 
 ## 👩‍💻 Sobre mí
@@ -123,7 +118,12 @@ Hola, soy **Anghela Rodriguez Barrios**, Analista de Sistemas apasionada por el 
 
 </div>
 
-#### 👩‍💻Contador de Visitas: 
+## 👩‍💻Contador de Visitas: 
 <img src="https://profile-counter.glitch.me/AnghelaRodriguezBarrios/count.svg"/>
+
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/grid-snake.svg"
+       alt="snake" /></a>
+</div>
 
 <h4 align="center">¡Gracias por visitar mi perfil!😺</h4>
