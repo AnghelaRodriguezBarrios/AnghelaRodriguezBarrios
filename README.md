@@ -4,7 +4,7 @@
 
 ---
 
-<img align="right" width="300" alt="Coding Image" src="https://wallpapers.com/images/featured/programacion-de-iphone-bd86goc4fhvenj72.jpg"/>
+<img align="right" width="290" alt="Coding Image" src="https://wallpapers.com/images/featured/programacion-de-iphone-bd86goc4fhvenj72.jpg"/>
 
 ## 👩‍💻 Sobre mí
 
@@ -43,8 +43,6 @@ Hola, soy **Anghela Rodriguez Barrios**, Analista de Sistemas apasionada por el 
 
 </div>
 
----
-
 ### **Backend**
 <div align="center">
 
@@ -55,8 +53,6 @@ Hola, soy **Anghela Rodriguez Barrios**, Analista de Sistemas apasionada por el 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>
-
----
 
 ### **Bases de Datos**
 <div align="center">
@@ -69,8 +65,6 @@ Hola, soy **Anghela Rodriguez Barrios**, Analista de Sistemas apasionada por el 
 
 </div>
 
----
-
 ### **DevOps & Cloud**
 <div align="center">
 
@@ -82,8 +76,6 @@ Hola, soy **Anghela Rodriguez Barrios**, Analista de Sistemas apasionada por el 
 
 </div>
 
----
-
 ### **CI/CD & Version Control**
 <div align="center">
 
@@ -94,8 +86,6 @@ Hola, soy **Anghela Rodriguez Barrios**, Analista de Sistemas apasionada por el 
 ![GitLab CI](https://img.shields.io/badge/GitLab_CI-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
 
 </div>
-
----
 
 ### **Diseño**
 <div align="center">
