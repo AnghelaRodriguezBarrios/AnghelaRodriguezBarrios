@@ -25,9 +25,9 @@ Hola, soy **Anghela Rodriguez Barrios**, Analista de Sistemas apasionada por el 
 - 🧩 **Resolución de Problemas**.  
 
 
----
-
 ## 🛠️ Stack Tecnológico
+
+---
 
 ### **Frontend**
 <div align="center">
@@ -43,6 +43,8 @@ Hola, soy **Anghela Rodriguez Barrios**, Analista de Sistemas apasionada por el 
 
 </div>
 
+---
+
 ### **Backend**
 <div align="center">
 
@@ -53,6 +55,8 @@ Hola, soy **Anghela Rodriguez Barrios**, Analista de Sistemas apasionada por el 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>
+
+---
 
 ### **Bases de Datos**
 <div align="center">
@@ -65,6 +69,8 @@ Hola, soy **Anghela Rodriguez Barrios**, Analista de Sistemas apasionada por el 
 
 </div>
 
+---
+
 ### **DevOps & Cloud**
 <div align="center">
 
@@ -73,7 +79,10 @@ Hola, soy **Anghela Rodriguez Barrios**, Analista de Sistemas apasionada por el 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
 </div>
+
+---
 
 ### **CI/CD & Version Control**
 <div align="center">
@@ -86,6 +95,8 @@ Hola, soy **Anghela Rodriguez Barrios**, Analista de Sistemas apasionada por el 
 
 </div>
 
+---
+
 ### **Diseño**
 <div align="center">
 
@@ -95,6 +106,7 @@ Hola, soy **Anghela Rodriguez Barrios**, Analista de Sistemas apasionada por el 
 </div>
 
 ---
+
 
 # 📊 Estadisticas de GitHub:
 ![](https://github-readme-stats.vercel.app/api?username=AnghelaRodriguezBarrios&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
